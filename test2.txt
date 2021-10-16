@@ -1,0 +1,12 @@
+ Volume in drive C is System
+ Volume Serial Number is 7680-FFC8
+
+ Directory of C:\Users\remote\Documents\MyGITproject
+
+10/16/2021  12:46 PM    <DIR>          .
+10/16/2021  12:46 PM    <DIR>          ..
+10/16/2021  12:06 PM                22 index.html
+10/16/2021  12:07 PM                10 test1.txt
+10/16/2021  12:46 PM                 0 test2.txt
+               3 File(s)             32 bytes
+               2 Dir(s)  112,730,525,696 bytes free
